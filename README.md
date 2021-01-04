@@ -1,7 +1,7 @@
 # Get to know to use OCR within PHP to convert image to text
 For various business reasons, you may want to convert an image file to text. Programs can be written to to achieve this using optical character recognition (OCR). Considering that many web applications are being written in PHP, lets take this opportunity to see how OCR can be leveraged within PHP to convert an image to text. Also refer to the article below to understand the use cases of image to text conversion.
 
-Looking for a PHP development team? Reach out to us. 
+[Looking for a PHP development team? Reach out to us.] (https://www.veonconsulting.com/contact/)
 
 If you want a little more background on how what optical character recognition is you can find this link useful. Tesseract is one of the popular OCR engine, which was developed by Hewlett Packard and now works with most of the platforms and various programming languages. Since it works very well with PHP, we will be using Tesseract for this example.
 
@@ -10,14 +10,14 @@ In this section of the article, we will explore the image to text conversion in 
 
 Get to know the top things you must consider before outsourcing PHP developments.
 
-#1. Install Tesseract
+# 1. Install Tesseract
 The fist step in this exercise would be to install Tesseract. Following are the instructions on how the library can be installed in Ubuntu and macOS operating systems.
 
-#2. Add PHP library to interact with the OCR to the project
+# 2. Add PHP library to interact with the OCR to the project
 The next step is to enable/add the Tesseract library so that it is available for PHP scripts. Following is the command to do the same.
 
 
-#3. Sample PHP code to invoke image to text conversion
+# 3. Sample PHP code to invoke image to text conversion
 Given below is a sample PHP code which takes the path of an image file from the file directory. It uploads the file before calling the Tesseract library and converts the same into text and outputs the same on the display.
 
 The following code is sample code to access the OCR engine to upload a image file from a directory and process it for text conversion.
@@ -30,10 +30,10 @@ Many a times, sales representatives are in a hurry to gather information. Many a
 
 Check out our CRM development service offerings.
 
-Toll Tag
+# Toll Tag
 Many paid highways use OCR for reading the license plate of vehicles. Depending on the entry and exit points on the highway, the bill is generated and sent to the vehicle owner.
 
- Statement and journal conversion
+Statement and journal conversion
 For statements and journal entries which are available in picture and need to be entered into financial system, this can be done via OCR.
 
 Coupon and Promotion via mobile APP picture data upload
