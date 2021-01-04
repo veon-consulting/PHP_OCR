@@ -5,6 +5,9 @@ For various business reasons, you may want to convert an image file to text. Pro
 
 If you want a little more background on how what optical character recognition is you can find this link useful. Tesseract is one of the popular OCR engine, which was developed by Hewlett Packard and now works with most of the platforms and various programming languages. Since it works very well with PHP, we will be using Tesseract for this example.
 
+[PHP Image to text conversion using OCR](https://vimeo.com/411182555)
+
+
 PHP OCR image to text conversion using Tesseract
 In this section of the article, we will explore the image to text conversion in a step by step manner. For this the first step is to install Tesseract. You can find the steps to install the same below.
 
