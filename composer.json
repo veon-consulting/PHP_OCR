@@ -1,0 +1,12 @@
+{
+    "name": "divyasahu/ocr-test",
+    "require": {
+        "thiagoalessio/tesseract_ocr": "^2.9"
+    },
+    "authors": [
+        {
+            "name": "Divya Sahu",
+            "email": "divya.sahu@veonconsulting.com"
+        }
+    ]
+}
