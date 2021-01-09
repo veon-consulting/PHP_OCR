@@ -30,8 +30,8 @@ While using OCR within PHP, please take note that you will have to handle except
 
 ## <a name="authors"></a>About the Author
 
-[VeonConsulting-logo](https://www.veonconsulting.com/wp-content/uploads/2018/03/Veon-Consulting-Logo.png)
+![VeonConsulting-logo](https://www.veonconsulting.com/wp-content/uploads/2018/03/Veon-Consulting-Logo.png)
 
 Veon brings best in consulting and integration solutions on Salesforce, SugarCRM, and SAP. It is an innovative company which deals best of the breed solution using integration solutions on the above platforms. making small and medium enterprise become smarter.
 
-[Veonconsulting Pvt Ltd](https://www.veonconsulting.com/).
+For more information, please visit  [Veonconsulting Pvt Ltd](https://www.veonconsulting.com/).
