@@ -13,7 +13,7 @@ We will be using a PHP library to read an image. In this case we will be using a
 To execute the sample program, please follow the step-by-step instruction given below. They are detailed in sequence.
  * **a.**	Set up environment ( WAMP / LAMP)
  * **b.**	Download and install Tesseract library. You can use sudo and brew command respectively depending on whether you are using Ubuntu or macOS.
- * **c.**	Add reference to Tesseract library within PHP. You can use the following statement for the same. $ composer require ….. tesseract_ocr
+ * **c.**	Add reference to Tesseract library within PHP in the root path. You can use the following statement for the same. $ composer install
  * **d.**	Save any image containing text at a path accessible on your machine. 
  * **e.**	Use the code provided in the repository to parse the image into text.
 
