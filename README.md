@@ -34,4 +34,4 @@ While using OCR within PHP, please take note that you will have to handle except
 
 Veon brings best in consulting and integration solutions on Salesforce, SugarCRM, and SAP. It is an innovative company which deals best of the breed solution using integration solutions on the above platforms. making small and medium enterprise become smarter.
 
-For more information, please visit  [Veonconsulting Pvt Ltd](https://www.veonconsulting.com/).
+For more information, please visit  [Veon Consulting](https://www.veonconsulting.com/).
