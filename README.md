@@ -24,6 +24,10 @@ There are many real-life examples where OCR may be needed within the PHP Code. S
 * (iii)	**Mobile Check Deposit** – Many banks enable their customer to upload check via Mobile APP. This uses advanced concept called [MICR to recognize the Bank Account Number and Routing Number during check deposit.](https://en.wikipedia.org/wiki/Magnetic_ink_character_recognition)
 * (iv)	**Credit Card Number** – Many companies like Amazon, enable companies to take a picture of their credit / debit card instead of entering them manually. This saves time and eliminates manual errors while putting in the card details as well. 
 * (v)	**Fleet and Parcel tracking** – When tracking fleet and parcel, users can take picture of the bar code and process the same within a PHP application. 
+* (vi)  **Hotel/Flights Booking** - When Booking a flight or a hotel, user can upload the picture of the National ID's like Passport/PAN then OCR can extract the data and can make the bookings and check-in's faster
+* (vii)  **Healthcare** - Most of the healthcare industries and rehabcare facilities have medical histories of the patients in the paper, OCR helps to extract the data and digitize the data. SO the patients or medical staff can check their medical histories online at one place.
+* (viii)  **Voucher Redeem** - OCR can be used to read the voucher code at the shopping malls and provide the offers on the order withou manual entry of the voucher code.
+
 
 ## Conclusion and further learning
 While using OCR within PHP, please take note that you will have to handle exceptions in an elaborate manner. This is because the image format may not always be the same. 
